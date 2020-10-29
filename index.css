@@ -1,0 +1,208 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+.buttoncolorO {
+  background-color: #ff754e;
+}
+.buttoncolorB {
+  background-color: #5ed3ec;
+}
+.buttoncolorY {
+  background-color: #ffcd6a;
+}
+
+nav .button {
+  /*background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 1%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2%;
+  cursor: pointer;
+  border-radius: 12px;
+}
+.nav1 {
+  text-align: center;
+}
+
+.headerpic {
+  display: inline-block;
+  border-radius: 50%;
+  max-width: 20%;
+  height: auto;
+  margin-left: 5%;
+  flex-wrap: wrap;
+}
+
+.footer1 {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #f9e7dd;
+  color: white;
+  text-align: center;
+}
+
+.fire {
+  display: block;
+  width: 15%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.car {
+  display: block;
+
+  width: 15%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btext {
+  background-color: #ddb9a3;
+  padding: 5%;
+  margin: 5%;
+}
+
+.headl {
+  /* display: inline-block; */
+  margin-left: 40%;
+  font-size: 250%;
+  text-align: center;
+  font-family: Chelsea Market;
+
+  flex-wrap: wrap;
+}
+
+.head2 {
+  font-family: Roboto Mono;
+  font-size: 180%;
+  margin-left: 30%;
+  text-align: center;
+  font-family: Roboto Mono;
+}
+
+.p1 {
+  font-size: 200%;
+  text-align: center;
+  padding: 1%;
+  font-family: Roboto Mono;
+  color: white;
+}
+
+.pfooter {
+  /* display: block; */
+
+  height: 30rem;
+  width: 100%;
+}
+
+.fireimg {
+  height: 30%;
+  width: 30%;
+  font-size: 200%;
+  text-align: center;
+  padding: 10% 10% 10% 36%;
+  font-family: Roboto Mono;
+}
+
+.carimg {
+  height: 30%;
+  width: 30%;
+  font-size: 200%;
+  text-align: center;
+  padding: 10% 10% 10% 36%;
+  font-family: Roboto Mono;
+}
+
+.bold {
+  font-weight: bold;
+}
